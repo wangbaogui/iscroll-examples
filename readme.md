@@ -1,4 +1,4 @@
-# iScroll 4 library examples #
+# iScroll.js 4 library examples #
 
 This is a series of examples made to experiment the iScroll.js library capabilities. 
 The examples are all described in iScroll.js 4 [page](http://cubiq.org/iscroll-4) 
